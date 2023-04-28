@@ -1,5 +1,5 @@
-# gradio_ko_chat
-Korean Vicuna를 학습완료!
+# gradio_ko_chat  
+ Korean Vicuna를 학습완료!
 
 # download model
 mkdir path  
